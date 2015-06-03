@@ -1,1 +1,2 @@
 # SwedishPropositionBank
+A database of Swedish propositions, created using distant supervision. Starting from PropBank in English and loosely parallel corpora such as versions of Wikipedia in different languages, we carried out a mapping of semantic propositions we extracted from English to syntactic structures in Swedish using named entities.
